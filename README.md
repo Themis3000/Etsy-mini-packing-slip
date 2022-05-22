@@ -1,2 +1,2 @@
-# Etsy-mini-packing-slip
+#  Mini-packing-slip
 Etsy integration for creating smaller packing slips made to fit in 5x7 envlopes
